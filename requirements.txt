@@ -1,0 +1,27 @@
+
+# flask
+# numpy
+# opencv-python
+# mediapipe
+# tensorflow==2.13.0
+# keras
+# werkzeug
+
+
+# flask==3.0.3
+# opencv-python-headless==4.10.0.84
+# tensorflow==2.17.0
+# keras==3.4.1
+# numpy==1.26.4
+# gunicorn==21.2.0
+# mediapipe==0.10.14
+
+# any other packages your app uses
+
+mediapipe==0.10.9
+opencv-python
+tensorflow
+flask
+gunicorn
+numpy
+
